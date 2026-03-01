@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Syed Abdul Hanan</h1>
+<h1 align="center">Hi, 👋 I'm Syed Abdul Hanan</h1>
 <h3 align="center">Python Developer & Generative AI Engineer</h3>
 
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
@@ -10,7 +10,7 @@
   <li>I’m specializing in Generative AI, Voice AI, and Multi-Agent Systems.</li>
   <li>Ask me about LangGraph, RAG pipelines, LLM Inference (vLLM, Ollama), and FastAPI.</li>
   <li>I am currently pursuing an MS in Artificial Intelligence at NUST, Islamabad.</li>
-  <li>How to reach me: abdul07hanan07@gmail.com[cite: 2].</li>
+  <li>How to reach me: abdul07hanan07@gmail.com.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
