@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Syed Abdul Hanan</h1>
+<h1 align="center">Hi, I'm Syed Abdul Hanan</h1>
 <h3 align="center">Python Developer & Generative AI Engineer</h3>
 
-<img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhanan-77&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhanan-77" /> </p>
 
-- [cite_start] I’m currently working as a Python Developer and Generative AI Engineer [cite: 12, 13].
-- [cite_start] I’m specializing in **Generative AI, Voice AI, and Multi-Agent Systems**[cite: 5, 6].
-- [cite_start] Ask me about **LangGraph, RAG pipelines, LLM Inference (vLLM, Ollama), and FastAPI**[cite: 5, 7, 8].
-- [cite_start] I am currently pursuing an MS in Artificial Intelligence at NUST, Islamabad[cite: 39, 40].
-- [cite_start] How to reach me: **abdul07hanan07@gmail.com**[cite: 2].
+<ul>
+  <li>I’m currently working as a Python Developer and Generative AI Engineer[cite: 13].</li>
+  [cite_start]<li>I’m specializing in Generative AI, Voice AI, and Multi-Agent Systems[cite: 5, 6, 22].</li>
+  [cite_start]<li>Ask me about LangGraph, RAG pipelines, LLM Inference (vLLM, Ollama), and FastAPI[cite: 5, 7, 8].</li>
+  [cite_start]<li>I am currently pursuing an MS in Artificial Intelligence at NUST, Islamabad[cite: 39, 40].</li>
+  [cite_start]<li>How to reach me: abdul07hanan07@gmail.com[cite: 2].</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,27 +20,11 @@
 
 <h3 align="left">Tech Stack & Expertise:</h3>
 
-* [cite_start]**Generative AI:** LangChain, LlamaIndex, LangGraph, RAG, Qwen3, Gemma3, Phi-4, Mistral-NeMo, DeepSeek[cite: 5].
-* [cite_start]**Voice AI & Automation:** Vapi, Twilio, Retell, Whisper, Deepgram, n8n, Playwright, Browser Use, MCP[cite: 6].
-* [cite_start]**Languages & Frameworks:** Python, FastAPI, Next.js, PyTorch, SQLAlchemy[cite: 7].
-* [cite_start]**Inference & Optimization:** VLLM, Ollama, llama.cpp, Hugging Face, Quantization (4-bit/8-bit), CUDA[cite: 8].
-* [cite_start]**Data & Databases:** PySpark, Pandas, NumPy, OpenCV, SpaCy, Crawl4AI, Neo4j, PostgreSQL, FAISS[cite: 9].
-* [cite_start]**DevOps:** Docker, Kubernetes, Git, CI/CD Pipelines[cite: 10].
-
-<h3 align="left">Languages and Tools (Icons):</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhanan-77&show_icons=true&locale=en&layout=compact" alt="abdulhanan-77" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhanan-77&show_icons=true&locale=en" alt="abdulhanan-77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhanan-77&" alt="abdulhanan-77" /></p>
+<ul>
+  [cite_start]<li><b>Generative AI:</b> LangChain, LlamaIndex, LangGraph, RAG, Qwen3, Gemma3, Phi-4, Mistral-NeMo, DeepSeek[cite: 5].</li>
+  [cite_start]<li><b>Voice AI & Automation:</b> Vapi, Twilio, Retell, Whisper, Deepgram, n8n, Playwright, Browser Use, MCP[cite: 6].</li>
+  [cite_start]<li><b>Languages & Frameworks:</b> Python, FastAPI, Next.js, PyTorch, SQLAlchemy[cite: 7].</li>
+  [cite_start]<li><b>Inference & Optimization:</b> VLLM, Ollama, llama.cpp, Hugging Face, Quantization (4-bit/8-bit), CUDA[cite: 8].</li>
+  [cite_start]<li><b>Data & Databases:</b> PySpark, Pandas, NumPy, OpenCV, SpaCy, Crawl4AI, Neo4j, PostgreSQL, FAISS[cite: 9].</li>
+  [cite_start]<li><b>DevOps:</b> Docker, Kubernetes, Git, CI/CD Pipelines[cite: 10].</li>
+</ul>
